@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Water Utility Management Using Data Analytics and Geospatial Analytics for Delhi State",
+		"year": "2018",
+		"conference": "Second International Conference on Green Computing and Internet of Things (ICGCIoT 2018), Banglore, Karnataka",
+		"detail": "",
+		"link": "https://ieeexplore.ieee.org/document/8752970",
+		"certificate": "https://drive.google.com/file/d/1lsGsLblXnES98xn_1xcrvJshHaSsihoD/view?usp=sharing",
+		"text": "Over the years the utility-customer relationship has rapidly transformed with vast number of factors affecting consumption including environmental factors like geography, weather, population, migration etc. Over the years the utility-customer relationship has rapidly transformed with vast number of factors affecting consumption including environmental factors like geography, weather, population, migration etc. The research work focuses on implementing a data driven approach towards understanding the water utility management, finding loopholes in demand supply patterns and customer base analysis using data analytics methods and geospatial approach. The first half focuses research work aims at understanding the water utility consumption in metropolitan city of parts of City of Delhi, using data analytics that aims at understanding per household consumption of consumers and segmentation of customers based on customer profiling."
+	},
+	{
+		"name": "Efficient Hybrid Recommendation Model Based on Content and Collaborative filtering Approach",
+		"year": "2018",
+		"conference": "International Conference on Emerging Trends In Expert Applications & Security 2018",
+		"detail": "",
+		"link": "https://link.springer.com/chapter/10.1007/978-981-13-2285-3_61",
+		"certificate": "https://drive.google.com/file/d/17mGCt3yYLIDggKJrgOYPE1Ac6FHdEe3Z/view?usp=sharing",
+		"text": "Recommendation systems are employed in e-commerce and market analysis applications and websites adaptable to customer requirements and interests. These systems analyses trends and people preferences and promote market strategies to enhance businesses. Such recommendation system is built purely with the science of understanding large sets of data generated and collected from the people and can be used to mobilize market trends. In this paper, a novel architectural model for recommendation systems has been proposed. The approach aims at overcoming the limitations of the traditional recommendation Systems. A hybrid of content-based filtering and collaborative based filtering techniques are proposed that spans different item-user parameters for making recommendations. The similarity indices are computed using various mathematical models like cosine similarity, centered cosine similarity etc."
+	},
+
+	{
+		"name": "Clustering Analysis of PingER Network Data for Vardha Cyclone",
+		"year": "2018",
+		"conference": "CONFLUENCE, 8th International Conference on Cloud computing, Data Science and Engineering, 2018",
+		"text": "The PingER project was initiated by SLAC National Accelerator Laboratory, Stanford, California with the end goal of observing end to end network performance. In the last decade PingER has produced a gigantic measure of information that has been stored in CSV documents. However, because of the need to recover information proficiently, it has been suggested that the information be placed into RDF triples. Translating and investigating such expansive volumes of information turns into an essential concern. Utilizing grouping calculations, new and intriguing examples can be seen in the informational indexes. Anomaly investigation can be performed offering knowledge to the exemptions happening in the dataset and dissecting the likely explanations of such. This paper aims in understanding this phenomenon of Vardha Cyclone, the most intense tropical cyclone of 2016 in North Indian Ocean, using PingER data.)",
+		"link": "https://ieeexplore.ieee.org/document/8442665",
+		"certificate": "https://drive.google.com/file/d/1kypmp3SsClPf2boGuWU4LOx6qqEp1yuV/view?usp=sharing",
+		"detail": ""
+	},
+	{
+		"name": "Proposed algorithm for traversal based ordering in Arc-Node Topological Data",
+		"year": "2018",
+		"conference": "2nd International Conference on Computational Intelligence and Informatics (ICCII-2017)",
+		"detail": "",
+		"link": "https://link.springer.com/chapter/10.1007/978-981-10-8228-3_66",
+		"certificate": "https://drive.google.com/file/d/1xiHMEZOYSI0TUPcdJrA9gs5eed_9G8Un/view?usp=sharing",
+		"text": "Stream ordering and analysis of tree networks are necessary for understanding graph data structures. The idea of stream ordering finds its base in hydrology and open networks. Large dataset representations of such networks are difficult to process for analysis. In this paper, the stream ordering concept has been extended to a general class of structures characterized by open network semantics. A new algorithm has been proposed for analyzing tree networks and hierarchal subdivision of network segments through traversal, with minimal and generic computation over Arc–Node topological data sets. The algorithm has been implemented as a case study for understanding the complexity and calculation of manhole invert levels of sewer network of wastewater utility in the capital city of Delhi."
+	},
+	{
+		"name": "Practical concepts and future implication of IoT : In Perspective of India",
+		"year": "2018",
+		"conference": "1st International Conference on Smart Computing and Informatics (CSI)",
+		"detail": "",
+		"link": "https://link.springer.com/chapter/10.1007/978-981-10-5547-8_49?no-access=true",
+		"certificate": "https://drive.google.com/file/d/1mq_LRhMOMAdtAq7_ZGCiaIL0SjxF01E8/view?usp=sharing",
+		"text": "Internet of things (IoT) presents “smart objects” as the core tool to focus on ubiquitous computing and cyber physical systems. Strong connectivity and an evolved generation of embedded systems facilitate the common grounds for intelligent object-based computing eliminating human-to-human or human-to-machine interactions. Basic objective of IoT is enabling seamless self generation of data and information transfer between Objects; knitting the physical objects into the virtual world. This paper focuses mainly on formulating idea of IoT into practical concepts, architectural modelling techniques of IoT, understanding the enabling elements and method for practical setup of embedded object communication. We have also evaluated the popularity of IoT applications as compared to other. Furthermore, future implication of IoT in perspective of India is given. "
+	}
+]

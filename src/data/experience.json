@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Associate Consultant",
+		"company": "Bristlecone India Ltd.",
+		"duration": "July 2018 - Dec 2019",
+		"Description": "Owned the development and delivery of Adobe - Marketo REST based Integration Adapter for Oracle Integration platform (OIC). Designed POC of feasible integration patterns, Marketo B2B integration scenarios with SFDC and other CRM. Implemented Cloud adapter SDK framework for OAuth 2.0 Authentication mechanism, engineered Connection, Design-time and Runtime components. Documented product requirement, design and support documents for Marketo adapter.Took initiative to build Junit Test suites for Marketo, ServiceNow, Salesforce integration adapters, used to identify a critical design issue for SFDC Bulk extraction scenario, improved overall sign-off efficiency during enhancements by 30%. Undertook Wizard UI modernization for ServiceNow adapter, acknowledged with a Spot-award for same.",
+		"image": "images/Bristlecone.png",
+		"link": "https://www.bcone.com/",
+		"certi": "https://drive.google.com/file/d/19M7aGNXsn5PVRaVhY6gXjSDrhkU35cBh/view?usp=sharing"
+	},
+	{
+		"name": "Student Researcher",
+		"company": "Stanford Linear Accelarator Laboratory (SLAC)",
+		"duration": "July 2016 - October 2017",
+		"Description": "Concentrated on network data analysis and semantic web. Performing Statistical analysis on tab delimited network data for understanding of natural disasters and their effect on global network data, undertaking Verdha cyclone (2016) as case study.",
+		"image": "images/SLAC.png",
+		"link": "https://www6.slac.stanford.edu/",
+		"certi": "https://drive.google.com/file/d/13UEpcnCj5nm-vvKC-u37c-qwYay7saY1/view?usp=sharing"
+	}
+]

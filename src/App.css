@@ -1,38 +1,137 @@
 .App {
-  text-align: center;
+	text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+	height: 40vmin;
+	pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+	.App-logo {
+		animation: App-logo-spin infinite 20s linear;
+	}
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
 }
 
 .App-link {
-  color: #61dafb;
+	color: #61dafb;
 }
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.navbar-app {
+	display: flex;
+	justify-content: center;
+	background-color: #616161;
+}
+ul.App-ul {
+	list-style-type: none;
+	margin: 0;
+	text-align: center;
+	overflow: hidden;
+}
+
+ul.App-ul > li {
+	float: left;
+	margin: 0px 40px;
+	font-weight: bold;
+	display: inline;
+	text-align: center;
+}
+
+ul.App-ul > li a {
+	display: block;
+	color: white;
+	padding: 16px;
+	text-decoration: none;
+}
+
+ul.App-ul > li > a:hover {
+	background-color: #474747;
+}
+
+#header {
+	display: flex;
+	flex-wrap: wrap;
+	vertical-align: middle;
+	background-color: rgb(206, 205, 205);
+	margin-bottom: 0px;
+	padding: 0px, 0px;
+	height: 320px;
+}
+
+#header img {
+	margin: 20px 100px;
+	width: 280px;
+	border-radius: 50%;
+	float: left;
+}
+
+#header-text {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	text-align: left;
+}
+
+#h1-App {
+	margin-bottom: 0px;
+	padding-top: 150px;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: normal;
+	font-size: 50px;
+	text-align: left;
+}
+
+#App-Footer {
+	background-color: rgb(206, 205, 205);
+}
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 70px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 2px;
+	border-radius: 50%;
+}
+
+.fa:hover {
+	opacity: 0.7;
+}
+
+.App-footer {
+	background-color: rgb(206, 205, 205);
+}
+
+.App-subfooter {
+	background-color: #616161;
+	color: white;
+}
+
+a#social {
+	margin: 0px, 30px;
+}
+a#social:link,
+a#social:visited {
+	color: rgb(255, 255, 255);
+	background: #616161;
 }

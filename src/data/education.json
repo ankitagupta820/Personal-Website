@@ -1,0 +1,58 @@
+[
+	{
+		"name": "University of Southern California",
+		"location": " Los Angeles, CA USA",
+		"degree": "Master of Science",
+		"major": "Computer Science",
+		"GPA": "4.0/4.0",
+		"year": "2020-2021",
+		"img_src": "images/USC.jpeg",
+		"img_href": "https://www.usc.edu/",
+		"courses": [
+			"CSCI 570 - Analysis of Algorithms",
+			"CSCI 561 - Foundations of Artificial Intelligence",
+			"CSCI 430 - Introduction to Network and System Security",
+			"CSCI 585 - Database Systems",
+			"CSCI 571 - Web Technologies"
+		]
+	},
+	{
+		"name": "Amity University",
+		"location": " Noida, India",
+		"degree": "Bachelor of Technology",
+		"major": " Computer Science and Engineering",
+		"GPA": "9/10",
+		"year": "2014-2018",
+		"img_src": "images/Amity.jpeg",
+		"img_href": "https://www.amity.edu/",
+		"courses": [
+			"IT424 - Big Data Analytics",
+			"CSIT124 - Data Structutes",
+			"CSE202 - Operating System",
+			"IT301 - Software Engineering",
+			"CSE203 - Computer Graphics",
+			"CSE311 - Distributed Systems",
+			"CSEIT201 - Java Programming",
+			"CSE204 - Theory of Computation",
+			"ES203 - Object Oriented Programming",
+			"IT423 - Introduction to Cloud Computing",
+			"CSE201 - Database Management Systems",
+			"CSE303 - Analysis and Design of Algorithms",
+			"IT414 - Software Testing and Quality Assurance",
+			"CSE301 - Computer Organisation and Architecture",
+			"CSE302 - Data Communication and Computer Networks",
+			"CSE402 - Digital Image Processing and Computer Vision"
+		]
+	},
+	{
+		"name": "The Khaitan School",
+		"location": "Noida, India",
+		"degree": "High School",
+		"major": "Science",
+		"GPA": "95.0%",
+		"year": "2008-2014",
+		"img_src": "images/Khaitan.png",
+		"img_href": "https://thekhaitanschool.org/",
+		"courses": ["Physics", "Chemistry", "Mathematics", "Information Practices"]
+	}
+]

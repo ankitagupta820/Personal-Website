@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Spot Award",
+		"year": "March 26, 2019 | Bristlecone India Ltd. ",
+		"img_src": "images/Bristlecone.png",
+		"img_href": "https://www.bcone.com/",
+		"description": "For 'Excellent contribution in UI Modernization of ServiceNow Adapter and brilliant ability to pick up things quickly.'",
+		"award_link": "https://drive.google.com/file/d/1xsR3uI8FsWHFPNGGvp89dd1j-goalmlZ/view?usp=sharing"
+	},
+	{
+		"name": "Award for Best Researcher",
+		"year": "May 1, 2018 | Amity University, India ",
+		"img_src": "images/Amity.jpeg",
+		"img_href": "https://www.amity.edu/",
+		"description": "Awarded with title of 'Best Researcher' from the batch of 2014-18.",
+		"award_link": "https://drive.google.com/file/d/1gHxE2SAn2k8sF5Tk6NC69yHLcRm_vTb0/view?usp=sharing"
+	},
+	{
+		"name": "Dr. Ashok K. Chauhan Merit Scholarship",
+		"year": "2014-2018 | Amity University, India",
+		"img_src": "images/Amity.jpeg",
+		"img_href": "https://www.amity.edu/",
+		"description": "Dr. Ashok K. chauhan Scholarship awardee: 100% On-admission-merit Scholarship for the academic years 2014-18.",
+		"award_link": "https://drive.google.com/file/d/1ijf2cYWgyNF7k9JWQz_FY4uNLlWtewjm/view?usp=sharing"
+	},
+	{
+		"name": "Scholarship for Higher Education (SHE)",
+		"year": "March 2014 | CBSE, India",
+		"img_src": "images/CBSE.jpg",
+		"img_href": "https://cbse.nic.in/",
+		"description": "Entitled for an annual sum of ₹80,000 for higher education. Awarded for academic excellence and securing top 1% marks in Class XII Board Examination",
+		"award_link": "https://drive.google.com/file/d/19x1WIQZlMmtmW7Ix6kpHkB8ZmWa6N1q_/view?usp=sharing"
+	},
+	{
+		"name": "Certificate of Merit",
+		"year": "August 2012 | CBSE, India",
+		"img_src": "images/CBSE.jpg",
+		"img_href": "https://cbse.nic.in/",
+		"description": "Awarded for academic excellence and securing 10 GPA in Class X",
+		"award_link": "https://drive.google.com/file/d/1rI3adq1veCh0HaoH6hYfcUgxkNNIn6jZ/view?usp=sharing"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Stock Search Web Application",
+		"year": "Sep 2020",
+		"description": "Developed a Web app with proxy server developed in Flask for listing recent Stocks information. Utilizes Tiingo API for stock prices and latest news articles, javascript highcharts library for generating visualizations of historical stocks data.",
+		"image": "images/stock.png",
+		"link": "https://github.com/ankitagupta820"
+	},
+	{
+		"name": "Image Classification on MNIST dataset using Perceptron Neural Network.",
+		"year": "Apr 2020",
+		"description": "Implemented Perceptron Neural Network from scratch for multi-class image classification on MNIST Handwritten digits dataset, containing 60,000 Training data points and test set of 10,000. Achieved test accuracy of 93.4%",
+		"image": "images/NN.png",
+		"link": "https://github.com/ankitagupta820/USC/tree/master/CSCI%20561%20(Foundations%20of%20Artificial%20Intelligence)/HW3"
+	},
+	{
+		"name": "Water Utility Management Using Data Analytics and Geospatial Analytics",
+		"year": "Apr 2018",
+		"description": "Concepts of Data analytics and Geospatial analytics used for understanding the Consumption patterns and consumer profiling for water utility for the state of Delhi. Built spatial models and projected consumption data using ArcMap 10.8.1, performed statistical analysis on customer demographics. The results were proposed to be used for policy changes for water supply.",
+		"image": "images/spatial.gif",
+		"link": "https://github.com/ankitagupta820"
+	},
+	{
+		"name": "Hybrid model for Music Recommendation Engine",
+		"year": "Jul 2017",
+		"description": "Proposed Hybrid architecture model for Recommendation System implementing Content based filtering and Collaborative filtering techniques, that overcomes the limitations of traditional recommendation models. Engine uses 'Million Song Dataset' comprising of 100,000 data points, for generating suggestions. It has been built using R scripts supported with web application for user interaction.",
+		"image": "images/spatial.gif",
+		"link": "https://github.com/ankitagupta820"
+	},
+
+	{
+		"name": "Soft Skills Development, Verve Systems Pvt. Ltd.",
+		"year": "Jul 2017",
+		"description": "This was an Outsourced project as a part of student collaboration with LeBow School of Business, Drexel University, Philadelphia (USA) and Amity University to develop a web application for Verve Systems Pvt. Ltd.. The Application aimed to provide a system that tests Soft Skills for Verve Systems employees and suggests resources for building soft skills.",
+		"image": "images/verve.png",
+		"link": "https://github.com/ankitagupta820"
+	}
+]
