@@ -24,7 +24,7 @@
 		"name": "Hybrid model for Music Recommendation Engine",
 		"year": "Jul 2017",
 		"description": "Proposed Hybrid architecture model for Recommendation System implementing Content based filtering and Collaborative filtering techniques, that overcomes the limitations of traditional recommendation models. Engine uses 'Million Song Dataset' comprising of 100,000 data points, for generating suggestions. It has been built using R scripts supported with web application for user interaction.",
-		"image": "images/spatial.gif",
+		"image": "images/reccomendation.png",
 		"link": "https://github.com/ankitagupta820"
 	},
 

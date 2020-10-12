@@ -37,7 +37,6 @@ function App() {
 	const pub_array = publications.map((publication) => {
 		return <Publications data={publication} />;
 	});
-
 	const publication_array = (
 		<CardColumns className="card-deck">{pub_array}</CardColumns>
 	);
@@ -73,14 +72,15 @@ function App() {
 							</li>
 						</ul>
 					</nav>
-
-					<Switch>
-						<Route path="/Education">{education_array}</Route>
-						<Route path="/Awards">{awards_array}</Route>
-						<Route path="/Publications">{publication_array}</Route>
-						<Route path="/Projects">{project_array}</Route>
-						<Route path="/Experience">{experience_array}</Route>
-					</Switch>
+					<div id="app-con">
+						<Switch>
+							<Route path="/Education">{education_array}</Route>
+							<Route path="/Awards">{awards_array}</Route>
+							<Route path="/Publications">{publication_array}</Route>
+							<Route path="/Projects">{project_array}</Route>
+							<Route path="/Experience">{experience_array}</Route>
+						</Switch>
+					</div>
 				</div>
 			</Router>
 			<div class="text-center py-3 App-footer">
